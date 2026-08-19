@@ -20,10 +20,13 @@ public:
 
         while(!q.empty()){
             int size=q.size();
+            TreeNode* latest;
 
             while(size--){
                 TreeNode* node=q.front();
                 q.pop();
+
+                latest=node;
 
                 if(node->left){
                     q.push(node->left);
@@ -31,8 +34,8 @@ public:
                 if(node->right){
                     q.push(node->right);
                 }
-                if(size==0) ans.push_back(node->val); 
             } 
+            ans.push_back(latest->val); 
         }
         return ans;
     }
