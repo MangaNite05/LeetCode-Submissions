@@ -53,4 +53,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MangaNite05/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/MangaNite05/LeetCode-Submissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+## Simulation
+|  |
+| ------- |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/MangaNite05/LeetCode-Submissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
